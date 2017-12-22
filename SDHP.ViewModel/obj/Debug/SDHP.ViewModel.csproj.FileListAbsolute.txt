@@ -1,0 +1,119 @@
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.dll
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.pdb
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.dll
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.dll
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.dll
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.dll
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.pdb
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.pdb
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.pdb
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.xml
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.csprojResolveAssemblyReference.cache
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.dll
+D:\GunjanBhure\Projects\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.pdb
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.pdb
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.pdb
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.pdb
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.pdb
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.xml
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.csprojResolveAssemblyReference.cache
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.pdb
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.pdb
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.pdb
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.pdb
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.pdb
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.xml
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.csprojResolveAssemblyReference.cache
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.dll
+D:\DayUsers\Saurabh W\Official\Wellness Project\backup of project\Backup 1\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.pdb
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.dll
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.pdb
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.dll
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.dll
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.dll
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.dll
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.pdb
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.pdb
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.pdb
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.xml
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.csprojResolveAssemblyReference.cache
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.dll
+D:\Day User\Project\Angular 4\Dec\7 Sept\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.pdb
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.dll
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.pdb
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.dll
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.dll
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.dll
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.dll
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.pdb
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.pdb
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.pdb
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.xml
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.csprojResolveAssemblyReference.cache
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.dll
+D:\Day User\Project\Angular 4\Dec\18-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.pdb
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.dll
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.pdb
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.dll
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.dll
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.dll
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.dll
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.pdb
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.pdb
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.pdb
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.xml
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.csprojResolveAssemblyReference.cache
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.dll
+D:\Day User\Project\Angular 4\Dec\19-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.pdb
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.dll
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.ViewModel.pdb
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.dll
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.dll
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.dll
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.dll
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Common.pdb
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Entities.pdb
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\SDHP.Repository.pdb
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\EntityFramework.xml
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.csprojResolveAssemblyReference.cache
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.dll
+D:\Day User\Project\Angular 4\Dec\20-Dec\SDHPNEW\SDHPNEW\SDHP.ViewModel\obj\Debug\SDHP.ViewModel.pdb

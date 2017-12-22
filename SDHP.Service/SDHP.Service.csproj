@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D72E8C19-2980-4463-A432-8CFBFA8364BC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SDHP.Service</RootNamespace>
+    <AssemblyName>SDHP.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=5.0.2.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.5.0.2\lib\net45\AutoMapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abstract\EntityMasters\ICategoryServices.cs" />
+    <Compile Include="Abstract\ICommonServices.cs" />
+    <Compile Include="Abstract\ICompanyServices.cs" />
+    <Compile Include="Abstract\IMembershipService.cs" />
+    <Compile Include="Abstract\IProfessionalService.cs" />
+    <Compile Include="Abstract\Patient\IPatientService.cs" />
+    <Compile Include="Abstract\Professional\CareCoOrdinator\ICareCoordinatorService.cs" />
+    <Compile Include="Abstract\Professional\FamilyHistories\IFamilyHistoryService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\CommonService.cs" />
+    <Compile Include="Service\CompanyServices.cs" />
+    <Compile Include="Service\EmailConfiguration\SMTPProvider.cs" />
+    <Compile Include="Service\EntityMasters\CategoryServices.cs" />
+    <Compile Include="Service\MembershipService.cs" />
+    <Compile Include="Service\Patient\PatientService.cs" />
+    <Compile Include="Service\ProfessionalService.cs" />
+    <Compile Include="Service\Professional\CareCoOrdinator\CareCoordinatorService.cs" />
+    <Compile Include="Service\Professional\FamilyHistories\FamilyHistoryService.cs" />
+    <Compile Include="Service\Utilities\FileUpload.cs" />
+    <Compile Include="Service\Utilities\MemberContext.cs" />
+    <Compile Include="Service\Utilities\SaveFileInFolder.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SDHP.Common\SDHP.Common.csproj">
+      <Project>{17996760-E97C-49A0-AD5B-38E25C22701C}</Project>
+      <Name>SDHP.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDHP.Entities\SDHP.Entities.csproj">
+      <Project>{c4ee0bb3-ec97-4282-ad50-4498f2ec23af}</Project>
+      <Name>SDHP.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDHP.Repository\SDHP.Repository.csproj">
+      <Project>{9c81fb37-366e-429d-bafb-3f3f1d7a7d54}</Project>
+      <Name>SDHP.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDHP.ViewModel\SDHP.ViewModel.csproj">
+      <Project>{30bb1fcc-dae6-4d62-88fe-dfcb58f0bf74}</Project>
+      <Name>SDHP.ViewModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

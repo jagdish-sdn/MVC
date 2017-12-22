@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{30BB1FCC-DAE6-4D62-88FE-DFCB58F0BF74}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SDHP.ViewModel</RootNamespace>
+    <AssemblyName>SDHP.ViewModel</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonEntities\_CityLookupViewModel.cs" />
+    <Compile Include="CommonEntities\_CountryLookupViewModel.cs" />
+    <Compile Include="CommonEntities\_DistrictLookupViewModel.cs" />
+    <Compile Include="CommonEntities\_StateLookupViewModel.cs" />
+    <Compile Include="Company\CompanyBasicInfoViewModel.cs" />
+    <Compile Include="EntityMaster\CategoryTypeViewModel.cs" />
+    <Compile Include="EntityMaster\CategoryViewModel.cs" />
+    <Compile Include="Patient\PatientAddressDetailsViewModel.cs" />
+    <Compile Include="Patient\PatientAppointmentDetailsViewModel.cs" />
+    <Compile Include="Patient\PatientBasicDetailsViewModel.cs" />
+    <Compile Include="Patient\PatientContactDetailsViewModel.cs" />
+    <Compile Include="Patient\PatientUploadDetailsViewModel.cs" />
+    <Compile Include="Patient\PatientViewModel.cs" />
+    <Compile Include="Professional\CareCoOrdinator\CareCoordinatorViewModel.cs" />
+    <Compile Include="Professional\FamilyHistories\FamilyHistoryViewModel.cs" />
+    <Compile Include="Professional\ProfessionalAddressDetailsViewModel.cs" />
+    <Compile Include="Professional\ProfessionalBasicDetailsViewModel.cs" />
+    <Compile Include="Professional\ProfessionalBuisnessControlViewModel.cs" />
+    <Compile Include="Professional\ProfessionalContactDetailsViewModel.cs" />
+    <Compile Include="Professional\ProfessionalJoiningDetailsViewModel.cs" />
+    <Compile Include="Professional\ProfessionalProfileImageViewModel.cs" />
+    <Compile Include="Professional\ProfessionalViewModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SDHP.Common\SDHP.Common.csproj">
+      <Project>{17996760-e97c-49a0-ad5b-38e25c22701c}</Project>
+      <Name>SDHP.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDHP.Entities\SDHP.Entities.csproj">
+      <Project>{c4ee0bb3-ec97-4282-ad50-4498f2ec23af}</Project>
+      <Name>SDHP.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDHP.Repository\SDHP.Repository.csproj">
+      <Project>{9c81fb37-366e-429d-bafb-3f3f1d7a7d54}</Project>
+      <Name>SDHP.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
